@@ -13,7 +13,7 @@ app.get('/',(req,res)=>{
 
 app.put('/change',(req,res)=>{
     try {
-        let product.name= req.query;
+        let name= req.query;
       if(product.name){
         let quantity = new quantity;
       }
